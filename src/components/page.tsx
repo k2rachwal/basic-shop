@@ -1,1 +1,3 @@
-oksdf
+const page = () => {
+    
+}
